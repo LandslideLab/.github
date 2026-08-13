@@ -29,7 +29,7 @@ Your membership is public by default; you can set it to private anytime in your 
 
 ## 🧪 What we do
 
-- **Multi-agent systems & agent governance** — e.g. [LANDSLIDE/Sphinx](https://codeberg.org/LANDSLIDE/Sphinx), a human-in-the-loop agent approval demo with MCP + REST transports
+- **Multi-agent systems & agent governance** — e.g. [LandslideLab/Sphinx](https://github.com/LandslideLab/Sphinx), a human-in-the-loop agent approval control plane with MCP + REST transports
 - **Human-machine collaboration** tooling and experiments
 - **Visual / generative works** — art that is code, code that is art
 - **Whatever weird thing you bring to the table**
@@ -38,7 +38,6 @@ Your membership is public by default; you can set it to private anytime in your 
 
 - Be kind. Be curious. Give credit where it's due.
 - Everything in this org is open source — that's the point.
-- FOSS-friendly mirror: [codeberg.org/LANDSLIDE](https://codeberg.org/LANDSLIDE)
 
 ## 🚀 Getting started
 
