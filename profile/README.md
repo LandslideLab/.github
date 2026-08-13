@@ -40,7 +40,7 @@ Your membership is public by default; you can set it to private anytime in your 
 |---------|------------|
 | [Sphinx](https://github.com/LandslideLab/Sphinx) · [SphinxGo](https://github.com/LandslideLab/SphinxGo) | A human-in-the-loop approval control plane for agents — every dangerous action stops at a human (Python original + Go rewrite) |
 | [Tiltmeter](https://github.com/LandslideLab/Tiltmeter) · [TiltmeterGo](https://github.com/LandslideLab/TiltmeterGo) | Sign, register, govern and debug agent skills — provenance from author to deployment, in Python and Go |
-| [Saltglass](https://github.com/LandslideLab/saltglass) | Distill agent sessions into human-approved, signed, sovereign knowledge crystals that expire unless reverified |
+| [saltglass](https://github.com/LandslideLab/saltglass) | Distill agent sessions into human-approved, signed, sovereign knowledge crystals that expire unless reverified |
 | [MONOLITH](https://github.com/LandslideLab/MONOLITH) | A digital landslide laboratory — watch a git repository slowly collapse as a geologic body. Observe, don't fix. |
 
 ## 🌱 Ground rules
