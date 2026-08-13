@@ -29,10 +29,19 @@ Your membership is public by default; you can set it to private anytime in your 
 
 ## 🧪 What we do
 
-- **Multi-agent systems & agent governance** — e.g. [LandslideLab/Sphinx](https://github.com/LandslideLab/Sphinx), a human-in-the-loop agent approval control plane with MCP + REST transports
+- **Agent infrastructure & governance** — signing, registries, approval planes, knowledge that doesn't rot
 - **Human-machine collaboration** tooling and experiments
 - **Visual / generative works** — art that is code, code that is art
 - **Whatever weird thing you bring to the table**
+
+## 🗿 Projects
+
+| Project | What it is |
+|---------|------------|
+| [Sphinx](https://github.com/LandslideLab/Sphinx) | A human-in-the-loop approval control plane for agents — every dangerous action stops at a human |
+| [Tiltmeter](https://github.com/LandslideLab/Tiltmeter) · [TiltmeterGo](https://github.com/LandslideLab/TiltmeterGo) | Sign, register, govern and debug agent skills — provenance from author to deployment, in Python and Go |
+| [Saltglass](https://github.com/LandslideLab/saltglass) | Distill agent sessions into human-approved, signed, sovereign knowledge crystals that expire unless reverified |
+| [MONOLITH](https://github.com/LandslideLab/MONOLITH) | A digital landslide laboratory — watch a git repository slowly collapse as a geologic body. Observe, don't fix. |
 
 ## 🌱 Ground rules
 
