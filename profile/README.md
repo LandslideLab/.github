@@ -1,6 +1,6 @@
 # LANDSLIDE ⛰️
 
-> **Votre code est un champ de bataille.**
+> **Ton code est un champ de bataille**
 
 LANDSLIDE is an open community for people who like building strange, ambitious things — especially around **multi-agent systems** and **human-machine collaboration**. Visual work is welcome too: generative art, interactive experiments, anything that looks as good as it runs.
 
