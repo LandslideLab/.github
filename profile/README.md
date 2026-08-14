@@ -42,6 +42,8 @@ Your membership is public by default; you can set it to private anytime in your 
 | [Tiltmeter](https://github.com/LandslideLab/Tiltmeter) · [TiltmeterGo](https://github.com/LandslideLab/TiltmeterGo) | Sign, register, govern and debug agent skills — provenance from author to deployment, in Python and Go |
 | [saltglass](https://github.com/LandslideLab/saltglass) | Distill agent sessions into human-approved, signed, sovereign knowledge crystals that expire unless reverified |
 | [MONOLITH](https://github.com/LandslideLab/MONOLITH) | A digital landslide laboratory — watch a git repository slowly collapse as a geologic body. Observe, don't fix. |
+| [yieldpoint](https://github.com/LandslideLab/yieldpoint) · [npm](https://www.npmjs.com/package/yieldpoint) | Dynamic power handover for human-machine collaboration — autonomy as a first-class runtime policy (TypeScript) |
+| [arena](https://github.com/LandslideLab/arena) · [npm](https://www.npmjs.com/package/@noahisarider/arena) | Framework-agnostic multi-agent simulation & evaluation — same scenario suite, many strategies, comparable quality / safety / autonomy / cost metrics (TypeScript) |
 
 ## 🌱 Ground rules
 
