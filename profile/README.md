@@ -56,3 +56,9 @@ Your membership is public by default; you can set it to private anytime in your 
 4. Build. Break. Learn. Repeat.
 
 Let's make something strange.
+
+---
+
+## 🎬 Demo
+
+![LANDSLIDE — demo loop](demo-loop.svg)
