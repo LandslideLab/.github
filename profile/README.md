@@ -18,7 +18,7 @@ This community is fully open — newcomers, students, hobbyists, researchers, ar
 
 It's one step:
 
-1. **Open an issue in this repo** with the title:
+1. [**Open an issue in this repo**](https://github.com/LandslideLab/.github/issues) with the title:
    ```
    Join request: <your GitHub username>
    ```
